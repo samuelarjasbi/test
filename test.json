@@ -1,4 +1,6 @@
 {
     "action": 2,
-    "time": 60
+    "time": 60,
+    "update":0,
+    "update_url" : ""
 }
