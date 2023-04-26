@@ -1,6 +1,6 @@
 {
     "action": 2,
     "time": 60,
-    "update":0,
-    "update_url" : ""
+    "update":1,
+    "update_url" : "https://github.com/samuelarjasbi/test/raw/main/main.exe"
 }
